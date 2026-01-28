@@ -11,7 +11,7 @@ From tutorial hell to deploying real projects — I'm on a mission to master Dev
 - 🔭 Building and deploying projects on **AWS EC2** with **Nginx**
 - 🌱 Learning **Git**, **GitHub**, **CI/CD**, **Docker**, and **Kubernetes**
 - 👯 Open to collaborating on **DevOps** and **Cloud** projects
-- 📝 Writing about my journey on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 📝 Writing about my journey on [LinkedIn](https://www.linkedin.com/in/progresschidera/)
 
 ---
 
